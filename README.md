@@ -42,7 +42,7 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/a
     git commit -m "提交信息"  
     （注：“提交信息” 里面换成你需要，如 “first commit”）
 
-    git pull origin main:master
+    git pull origin main
 
     git push -u origin main  
     （注：
